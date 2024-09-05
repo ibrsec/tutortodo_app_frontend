@@ -9,7 +9,7 @@
    
   <a href="https://github.com/ibrsec/tutortodo_app_frontend">
     <img src="./public/logo.png" alt="Logo" width="250"   >
-  </a>
+  </a> 
 
   <h3 align="center">Frontend of Fullstack Tutorials App</h3>
 
